@@ -42,7 +42,3 @@
 #### Account for testing
 Email: em7506386@gmail.com
 Password: Q12345
-
-### Video-demo: https://www.youtube.com/watch?v=fo005T6cZvE&t=1s
-### Visit-App: https://eslam-mohamed78.github.io/E-Commerce-Web-App/
-### Backend-repo: https://github.com/Eslam-Mohamed78/E-Commerce-BackEnd
